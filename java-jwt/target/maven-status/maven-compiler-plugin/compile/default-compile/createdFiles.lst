@@ -1,0 +1,16 @@
+com\auth0\jwt\pem\X509CertUtils.class
+com\auth0\jwt\JWTSigner$1.class
+com\auth0\jwt\JWTVerifier.class
+com\auth0\jwt\JWTSigner.class
+com\auth0\jwt\pem\PemWriter.class
+com\auth0\jwt\Algorithm.class
+com\auth0\jwt\JWTVerifyException.class
+com\auth0\jwt\JWTAlgorithmException.class
+com\auth0\jwt\JWTExpiredException.class
+com\auth0\jwt\pem\PemFileReader.class
+com\auth0\jwt\JWTAudienceException.class
+com\auth0\jwt\pem\PemFileWriter.class
+com\auth0\jwt\JWTIssuerException.class
+com\auth0\jwt\pem\PemReader.class
+com\auth0\jwt\JWTVerifier$1.class
+com\auth0\jwt\JWTSigner$Options.class
