@@ -1,8 +1,0 @@
-com\auth0\jwt\JWTSignerTest.class
-com\auth0\jwt\JWTSignerBytesTest.class
-com\auth0\jwt\JWTRoundTripTest.class
-com\auth0\jwt\JWTVerifierTest.class
-com\auth0\jwt\JWTRoundTripRsa256Test.class
-com\auth0\jwt\JWTVerifierRsa256Test.class
-com\auth0\jwt\JWTRoundTripTest$User.class
-com\auth0\jwt\JWTSignerTest_Bytes.class
